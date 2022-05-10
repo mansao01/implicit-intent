@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intent Implicit</string>
+    <string name="edt_uri">https://developer.android.com/</string>
+    <string name="btn_uri">Open Website</string>
+
+    <string name="edt_location">Golden gate Bridge</string>
+    <string name="btn_location">Open Location</string>
+
+    <string name="edt_share">Halo Mansao</string>
+    <string name="btn_share">Share This Text</string>
+
+    <string name="camera">Camera</string>
+
+
+
+</resources>
